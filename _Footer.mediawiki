@@ -1,3 +1,6 @@
+Outer Circle Внешнее КоЛЬцо  ჹარეgun წრე 'g'არეგანული'
+
+
 {| class="wikitable floatright" style="width: 400px; text-align:center;"     
 |+SI base units
 ! scope="col" | Symbol
