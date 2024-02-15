@@ -26,5 +26,4 @@
 | [[candela]]|| [[luminous intensity]]
 |}
 
-
-![image](https://github.com/barionleg/cellhashR/assets/102619282/84fca6a6-56d7-4e02-ae0c-31fe63ed9a7b)
+![image](https://github.com/barionleg/cellhashR/assets/102619282/a38b2780-7c6d-4979-80f3-e2a8dc676e32)
