@@ -85,5 +85,5 @@
 | [[Avogadro constant]] || {{val|6.02214076|e=23|u=mol-1}} 
 |- 
 ! scope="row" | {{Math|''K''<sub>cd</sub>}} 
-| [[luminous efficacy]] of {{val|540|u=THz}} radiation || {{val|683|u=lm/W}} 
+| [[luminous efficacy]] of radiation {{val|540|u=THz}}  || {{val|683|u=lm/W}} 
 |}
