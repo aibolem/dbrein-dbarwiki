@@ -1,4 +1,4 @@
-{{Short description|Measure of absolute temperature}}
+[Rankine](https://en.wikipedia.org/wiki/Rankine_cycle){{Short description|Measure of absolute temperature}}
 {{Thermodynamics|cTopic=[[List of thermodynamic properties|System properties]]}}
 '''Thermodynamic temperature''' is a quantity defined in [[thermodynamics]] as distinct from [[Kinetic theory of gases|kinetic theory]] or [[statistical mechanics]].
 
