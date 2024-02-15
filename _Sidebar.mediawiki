@@ -1,19 +1,89 @@
+# Outer Circle Внешнее КоЛЬцо  ჹარეgun წრე 'g'არეგანული, გარეწრიული'
+
+
+{| class="wikitable floatright" style="width: 400px; text-align:center;"     
+|+SI base units
+! scope="col" | Symbol
+! scope="col" | Name
+! scope="col" | Quantity
+|-
+! scope="row" | s
+| [[second]] || [[time]]
+|-
+! scope="row" | m
+| [[metre]] || [[length]]
+|-
+! scope="row" | kg
+| [[kilogram]] || [[mass]]
+|-
+! scope="row" | A
+| [[ampere]]  || [[electric current]]
+|-
+! scope="row" | K
+| [[kelvin]] || [[thermodynamic temperature]]
+|-
+! scope="row" | mol
+| [[mole (unit)|mole]] || [[amount of substance]]
+|-
+! scope="row" | cd
+| [[candela]]|| [[luminous intensity]]
+|}
+
+ღРубЛиЯჼ
+
+{| class="wikitable floatright" style="width: 400px; text-align:center;" 
+|+Базовые единицы СИ 
+! scope="col" | Символ 
+! scope="col" | Имя 
+! scope="col" | Количество 
+|- 
+! scope="row" | c 
+| [[секунда]] || [[время]] 
+|- 
+! scope="row" | м 
+| [[метр]] || [[длина]] 
+|- 
+! scope="row" | кг 
+| [[килограмм]] || [[масса]] 
+|- 
+! scope="row" | Аh 
+| [[ампер]] || [[электрический ток]] 
+|- 
+! scope="row" | К 
+| [[кельвин]] || [[термодинамическая температура]] 
+|- 
+! scope="row" | mიл 
+| [[моль (единица измерения)|моль]] || [[количество вещества]] 
+|- 
+! scope="row" | cД 
+| [[кандела]]|| [[сила света]] || [[интенсивность света]] |} 
+
+
+
 {| class="wikitable floatright" style="width: 400px; text-align:center;" 
 |+SI defining constants 
 ! scope="col" | Symbol 
 ! scope="col" | Defining constant 
 ! scope="col" | Exact value 
 |- 
-! scope="row" | {{math|Δ''ν''<sub>Cs</sub>}} | [[Caesium standard|hyperfine transition frequency of Cs]] || {{val|9192631770|u=Hz}} 
+! scope="row" | {{math|Δ''ν''<sub>Cs</sub>}} 
+| [[Caesium standard|hyperfine transition frequency of Cs]] || {{val|9192631770|u=Hz}} 
 |- 
-! scope="row" | {{mvar|c}} | [[speed of light]] || {{val|299792458|u=m/s}} 
+! scope="row" | {{mvar|c}} 
+| [[speed of light]] || {{val|299792458|u=m/s}} 
 |- 
-! scope="row" | {{mvar|h}} | [[Planck constant]] || {{val|6.62607015|e=-34|u=J.s}} 
+! scope="row" | {{mvar|h}} 
+| [[Planck constant]] || {{val|6.62607015|e=-34|u=J.s}} 
 |- 
-! scope="row" | {{mvar|e}} | [[elementary charge]] || {{val|1.602176634|e=-19|u=C}} 
+! scope="row" | {{mvar|e}} 
+| [[elementary charge]] || {{val|1.602176634|e=-19|u=C}} 
 |- 
-! scope="row" | {{mvar|k}} | [[Boltzmann constant]] || {{val|1.380649|e=-23|u=J/K}} 
+! scope="row" | {{mvar|k}} 
+| [[Boltzmann constant]] || {{val|1.380649|e=-23|u=J/K}} 
 |- 
-! scope="row" | {{Math|''N''<sub>A</sub>}} | [[Avogadro constant]] || {{val|6.02214076|e=23|u=mol-1}} 
+! scope="row" | {{Math|''N''<sub>A</sub>}} 
+| [[Avogadro constant]] || {{val|6.02214076|e=23|u=mol-1}} 
 |- 
-! scope="row" | {{Math|''K''<sub>cd</sub>}} | [[luminous efficacy]] of {{val|540|u=THz}} radiation || {{val|683|u=lm/W}} |}
+! scope="row" | {{Math|''K''<sub>cd</sub>}} 
+| [[luminous efficacy]] of {{val|540|u=THz}} radiation || {{val|683|u=lm/W}} 
+|}
