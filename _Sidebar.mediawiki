@@ -4,8 +4,7 @@
 ! scope="col" | Defining constant 
 ! scope="col" | Exact value 
 |- 
-! scope="row" | {{math|Δ''ν''<sub>Cs</sub>}} 
-| [[Caesium standard|hyperfine transition frequency of Cs]] || {{val|9192631770|u=Hz}} 
+! scope="row" | {{math|Δ''ν''<sub>Cs</sub>}} | [[Caesium standard|hyperfine transition frequency of Cs]] || {{val|9192631770|u=Hz}} 
 |- 
 ! scope="row" | {{mvar|c}} | [[speed of light]] || {{val|299792458|u=m/s}} 
 |- 
